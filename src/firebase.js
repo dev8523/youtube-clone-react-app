@@ -6,6 +6,6 @@ const firebaseConfig = {
     projectId: "clone-react-app-fb7c1",
     storageBucket: "clone-react-app-fb7c1.appspot.com",
     messagingSenderId: "917445065447",
-    appId: "1:917445065447:web:e5a6f39b67e27294bbc042",
-    measurementId: "G-MPQCWR33CC"
+    appId: "1:917445065447:web:3ddae9172cd8203abbc042",
+    measurementId: "G-6F2VXP16W2"
   };
