@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.header__logo {
+    height: 45px;
+    /* width: 50px; */
+    object-fit: contain;
+    margin-left: 15px;
+}
+
+.header__input {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    border: 1px solid black;
+}
+
+.header__icon {
+    margin-right: 5px;
+}
+
+.header__inputButton {
+    width: 50px !important;
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
+}
+
+.header__icons {
+    display: flex;
+    align-items: center;
+}
+
+.header__input > input {
+    flex: 1;
+    border: none;
+}
