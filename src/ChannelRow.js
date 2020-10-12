@@ -19,7 +19,7 @@ function ChannelRow({
           {channel} {verified && <VerifiedIcon />}
         </h4>
         <p>
-          {subs} subscribers ● {noOfViedos} videos
+          {subs} subscribers • {noOfViedos} videos
         </p>
         <p>{description}</p>
       </div>
